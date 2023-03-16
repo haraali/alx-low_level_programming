@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - main function
+ * main - main function printf bytes
  * Return: 0
  */
 int main(void)
