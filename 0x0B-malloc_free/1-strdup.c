@@ -1,12 +1,12 @@
 #include <stdio.h>
-#include "main.h"
 #include <stdlib.h>
+#include "main.h"
 
 /**
  * _strdup - function that returns a pointer to a newly
  * allocated space in memory
  * @str: input value
- * Return 0
+ * Return: 0
  */
 char *_strdup(char *str)
 {
