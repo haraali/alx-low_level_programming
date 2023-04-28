@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void print_quote(void);
+void print_quote(void) __attribute__ ((constructor));
 
 /**
  * print_quote - prints quote
